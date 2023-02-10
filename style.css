@@ -78,7 +78,8 @@ p + h2 {
 #hotel3 {
     margin-top: 1em; 
     border-top: 1px solid #fff; 
-    padding-top: 1em;} 
+    padding-top: 1em;
+} 
 
 #rooms {
   font-size: 440%;
@@ -108,7 +109,6 @@ p + h2 {
   padding: 0 50px 0 50px;
   line-height: 28px;
   text-align: left;
-  background-image: url("../images/check-cross.png");
   background-position: 120px 0;
   background-repeat: no-repeat;}
 
